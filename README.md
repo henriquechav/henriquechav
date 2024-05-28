@@ -11,7 +11,7 @@
 <h2 align="left">Sobre mim</h2>
 
 <p align="left">
-  📚 Estudo Ciência e Tecnologia da UFABC<br>
+  📚 Estudo Ciência e Tecnologia na UFABC<br>
   ✨ Me interesso por desenvolvimento Full-Stack<br>
   🎯 Objetivo: conseguir uma oportunidade de estágio<br>
   🎲 Curiosidade: amo estudar filosofia
