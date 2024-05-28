@@ -12,9 +12,9 @@
 
 <p align="left">
   📚 Estudo Ciência e Tecnologia na UFABC<br>
-  ✨ Me interesso por desenvolvimento Full-Stack<br>
-  🎯 Objetivo: conseguir uma oportunidade de estágio<br>
-  🎲 Curiosidade: amo estudar filosofia
+  ✨ Estudo desenvolvimento Full-Stack<br>
+  🎯 Objetivo: oportunidade de estágio<br>
+  🎲 Curiosidade: estudo filosofia nas horas vagas
 </p>
 
 <h2 align="left">Minha stack</h2>
