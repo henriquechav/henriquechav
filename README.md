@@ -2,7 +2,7 @@
 
 <p align="left">Boas vindas ao meu GitHub!</p>
 <p align="left">Me chamo <strong>Henrique Chaves</strong>, tenho 21 anos.</p>
-<p align="left">Desde criança adoro ficar "só nos compiuter" e resolvi trabalhar com programação.</p>
+<p align="left">Desde criança adoro ficar "só nos compiuter", então resolvi trabalhar com programação.</p>
 
 <div align="left">
   <img height="200" src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif"  />
