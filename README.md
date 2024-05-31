@@ -1,8 +1,7 @@
-<h1 align="left">Olá 👋 Tudo certo?</h1>
+<h1 align="left">Olá, tudo certo? 👋</h1>
 
-<p align="left">Boas vindas ao meu GitHub!</p>
+<p align="left">Bem-vindo(a) ao meu GitHub!</p>
 <p align="left">Me chamo <strong>Henrique Chaves</strong>, tenho 21 anos.</p>
-<p align="left">Desde criança adoro ficar "só nos compiuter", então resolvi trabalhar com programação.</p>
 
 <div align="left">
   <img height="200" src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif"  />
@@ -11,10 +10,10 @@
 <h2 align="left">Sobre mim</h2>
 
 <p align="left">
-  📚 Estudo Ciência e Tecnologia na UFABC<br>
-  ✨ Estudo desenvolvimento Full-Stack<br>
-  🎯 Objetivo: oportunidade de estágio<br>
-  🎲 Curiosidade: estudo filosofia nas horas vagas
+  📚 Estudo Ciência e Tecnologia na Universidade Federal do ABC<br>
+  ✨ Me interesso pelo desenvolvimento full-stack de aplicações web<br>
+  🎯 Objetivo: estou em busca de uma oportunidade de estágio<br>
+  🤔 Curiosidade: adoro estudar filosofia nas horas vagas
 </p>
 
 <h2 align="left">Minha stack</h2>
