@@ -1,11 +1,9 @@
 <h1 align="left">Olá, tudo certo? 👋</h1>
 
 <p align="left">Bem-vindo(a) ao meu GitHub!</p>
-<p align="left">Me chamo <strong>Henrique Chaves</strong>, tenho 21 anos.</p>
+<p align="left">Me chamo <strong>Henrique Chaves</strong>.</p>
+<img height="150" src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" />
 
-<div align="left">
-  <img height="200" src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif"  />
-</div>
 
 <h2 align="left">Sobre mim</h2>
 
@@ -16,7 +14,7 @@
   🤔 Curiosidade: adoro estudar filosofia nas horas vagas
 </p>
 
-<h2 align="left">Minha stack</h2>
+<h2 align="left">Habilidades técnicas</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
