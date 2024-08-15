@@ -2,7 +2,6 @@
 
 <p align="left">Bem-vindo(a) ao meu GitHub!</p>
 <p align="left">Me chamo <strong>Henrique Chaves</strong>.</p>
-<img height="150" src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" />
 
 
 <h2 align="left">Sobre mim</h2>
