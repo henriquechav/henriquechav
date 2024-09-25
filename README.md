@@ -1,17 +1,7 @@
 <h1 align="left">Olá, tudo certo? 👋</h1>
 
-<p align="left">Bem-vindo(a) ao meu GitHub!</p>
 <p align="left">Me chamo <strong>Henrique Chaves</strong>.</p>
-
-
-<h2 align="left">Sobre mim</h2>
-
-<p align="left">
-  📚 Estudo Ciência e Tecnologia na Universidade Federal do ABC<br>
-  ✨ Me interesso pelo desenvolvimento full-stack de aplicações web<br>
-  🎯 Objetivo: estou em busca de uma oportunidade de estágio<br>
-  🤔 Curiosidade: adoro estudar filosofia nas horas vagas
-</p>
+<p> Sou estudante de ciência e tecnologia na Universidade Federal do ABC. Minha formação tem ênfase em conhecimentos voltados para área de TI, como programação. Alguns de meus valores norteadores são: trabalho em equipe, aprendizado contínuo, comprometimento e excelência. Atualmente, estou em busca de uma oportunidade de estágio.</p>
 
 <h2 align="left">Habilidades técnicas</h2>
 
